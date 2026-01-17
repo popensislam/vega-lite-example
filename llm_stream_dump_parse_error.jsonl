@@ -1,0 +1,8 @@
+{"event":"token","data":{"delta":"Вот спецификация:\n"}}
+{"event":"token","data":{"delta":"```json\n"}}
+{"event":"token","data":{"delta":"{ \"mark\": \"bar\",\n"}}
+{"event":"token","data":{"delta":"  \"encoding\": {\n"}}
+{"event":"token","data":{"delta":"    \"x\": { \"field\": \"region\" }\n"}}
+{"event":"token","data":{"delta":"  \n"}}
+{"event":"token","data":{"delta":"```"}}
+{"event":"done","data":{}}

@@ -1,0 +1,4 @@
+{"event":"token","data":{"delta":"Начинаем стрим\n"}}
+{"event":"token","data":{"delta":"LLM думает...\n"}}
+{"event":"error","data":{"message":"LLM internal error: context overflow"}}
+{"event":"token","data":{"delta":"ЭТО НЕ ДОЛЖНО ПОКАЗАТЬСЯ"}}
